@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "456046690185",
+    "firebase_url": "https://new-blood-app.firebaseio.com",
+    "project_id": "new-blood-app",
+    "storage_bucket": "new-blood-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456046690185:android:a78a0f4ce63fd36b",
+        "android_client_info": {
+          "package_name": "com.bloodtolife.bloodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456046690185-bmrbuq0nrss31ffskjjg8e23q04nq78l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fwEgB76KpTB_gBRf0SWm2PnXldhlNYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
